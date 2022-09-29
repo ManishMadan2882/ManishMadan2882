@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ManishMadan2882
-- 👀 I’m interested in tech.
-- 🌱 I’m currently learning web developement.
-- 💞️ I’m looking to collaborate on projects.
+- 🌱 I’m currently learning MERN Stack.
+- 💞️ I’m looking to contribute.
 
 <!---
 ManishMadan2882/ManishMadan2882 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
