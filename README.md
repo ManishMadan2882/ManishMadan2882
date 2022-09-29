@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ManishMadan2882
+- 👋 Hi, I’m Manish Madan
 - 🌱 I’m currently learning MERN Stack.
 - 💞️ I’m looking to contribute.
 
