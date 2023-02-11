@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Manish Madan
-- 🌱 I’m currently learning MERN Stack.
-- 💞️ I’m looking to contribute.
+# - 👋 Hi, I’m Manish Madan
+## - MERN Stack developer
+- Let's work on some amazing projects
 
 <!---
 ManishMadan2882/ManishMadan2882 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
