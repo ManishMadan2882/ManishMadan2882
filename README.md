@@ -20,7 +20,7 @@
 
 
 ## Let's build something 🔥
-
+![Profile Views](https://githitbox.duckdns.org/badge/manishmadan2882)
 <!---
 ManishMadan2882/ManishMadan2882 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
